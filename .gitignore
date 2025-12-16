@@ -5,10 +5,10 @@
 #-------------------------------------------------------------------------------
 # Exclude the following files from repository.
 #-------------------------------------------------------------------------------
-*.vscode/
-*.DS_Store
+.vscode/
+.DS_Store
 
 # CAD files folder
-*CAD-Files/
+CAD-Files/
 
 ### End of file ###
